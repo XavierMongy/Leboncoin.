@@ -220,3 +220,30 @@ li{
 .contact{
 	display: none;
 }
+
+/*************Footer*************
+********************************/
+
+footer{
+
+	background-color: white;
+	height: 200px;
+	width: 100%
+}
+
+.select{
+
+	width: 100%;
+}
+
+.selectregion{
+
+	display: block;
+	float: left;
+	width: 90%;
+	margin-top: 20px;
+	margin-left: 5%;
+	height: 50px
+}
+
+}
