@@ -152,3 +152,47 @@ footer{
 
 	text-decoration: underline;
 }
+
+
+/*****************************max-width 1045px**********************************/
+
+
+@media screen and (max-width: 1045px){
+
+/***********header**********
+***************************/
+
+.menu{
+
+	display: none;
+}
+
+.second-menu{
+
+	margin-top: 10px;
+	float: left;
+	font-family: 'Open Sans', sans-serif;
+	border: 1px white solid;
+	border-radius: 5px;	
+	padding: 5 20 5 20px;
+	background-color: white;
+	color: #EC6800;
+}
+
+.second-menu:hover{
+
+	background-color: #5140C1;
+	border: 0;
+}
+
+.lbc{
+
+	float: right;
+}
+
+.click{
+
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
