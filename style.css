@@ -67,3 +67,48 @@ header a:hover{
 	margin-left: auto;
 	margin-right: auto;
 }
+
+/********Section*********
+************************/
+
+section{
+
+	margin-top: 150px;
+	width: 670px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#carte{
+
+	float: left;
+}
+
+ul{
+
+	list-style: none;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.regions{
+
+	float: right;
+}
+
+.regions li{
+
+	text-align: right;
+}
+
+.regions a{
+	
+	color: #336699;
+	text-decoration: none;
+}
+
+.regions a:hover{
+
+	color: #EC6800;
+}
